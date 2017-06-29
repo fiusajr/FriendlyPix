@@ -71,6 +71,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
                 Intent signInIntent = new Intent(this, ProfileActivity.class);
                 startActivity(signInIntent);
                 break;
+                //teste
         }
     }
 }
