@@ -72,6 +72,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
                 startActivity(signInIntent);
                 break;
                 //teste
+            //caralho
         }
     }
 }
